@@ -7,7 +7,7 @@ I'm part of the link:http://iloveponies.github.com/120-hour-epic-sax-marathon/[1
 List:
 
 * item 1
-  Some extra content
+   Some extra content
 * item 2
 
 ## Usage
